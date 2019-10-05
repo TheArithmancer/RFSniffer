@@ -16,7 +16,7 @@ void setup()
   // Print a start message to the LCD.
   lcd.backlight();
   lcd.setCursor(2,0);
-  lcd.print("Yaz's RF Sniffer");
+  lcd.print("Maya's RF Sniffer");
 }
 
 
